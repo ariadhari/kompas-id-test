@@ -1,0 +1,23 @@
+.big-orange {
+    font-size: 26px;
+    font-weight: 900;
+    font-style: italic;
+    color: #ed821b;
+    max-width: unset !important;
+    width: 120%;
+    margin-left: -10%;
+    position: relative;
+    padding-top: 50px;
+    margin-top: 0 !important;
+    text-align: center;
+    -webkit-text-align: center;
+    -moz-text-align: center;
+    -o-text-align: center;
+}
+.big-orange span {
+    font-size: 90px;
+    position: absolute;
+    display: block;
+    width: 100%;
+    top: -20px;
+}
